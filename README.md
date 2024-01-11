@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Build and run a Flask application on your computer.
+- Build and run a Flask application on your own computer.
 - Extend a Flask application to meet the unique requirements of different
   projects.
 
